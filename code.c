@@ -3,7 +3,7 @@
 
 main()
 {
-	int a,b,c;
+	int a,b,c,d;
 	printf(enter value for a = ");
 	scanf("%d",&a)
 	printf("enter value for b =");
