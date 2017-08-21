@@ -10,6 +10,8 @@ main()
 	scanf("%d",&b);
 	
 	c=a+b;
-	printf("the addition of two numbers is = %d",c)
+	d=a*b;
+	printf("the addition of two numbers is = %d",c);
+	printf("the multiplication of two numbers is =%d ",d);
 getche();
 }
